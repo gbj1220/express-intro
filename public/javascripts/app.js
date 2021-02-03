@@ -1,0 +1,1 @@
+console.log("THIS IS FROM APP JS FILE");
